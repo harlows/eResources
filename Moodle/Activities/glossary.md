@@ -11,3 +11,4 @@ The Glossary activity enables participants to create and maintain a list of defi
 - A revision resource of facts to remember.
 
 1. On the top right hand corner, toggle Edit mode on.
+![](../images/Edit-mood.png]
