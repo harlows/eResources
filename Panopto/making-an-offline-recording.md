@@ -1,10 +1,10 @@
 # Making‌ ‌an‌ ‌offline‌ ‌recording
--> There may be times when you will not be able to record directly to Panopto.
-This might be due to a maintenance time or an upgrade.
-At these times you can make an offline recording.
+> There may be times when you will not be able to record directly to Panopto.
+>This might be due to a maintenance time or an upgrade.
+>At these times you can make an offline recording.
 
-Windows
-1. Open the Panopto client. On your desktop, double-click the Panopto icon to open the Panopto Recorder program. Alternatively, you can search for the programme in your system.
+## Windows
+1. Open the Panopto client. On your desktop, double-click the **Panopto icon** to open the **Panopto Recorder**. Alternatively, you can search for the programme in your system.
 
 
 
