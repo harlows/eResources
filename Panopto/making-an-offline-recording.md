@@ -35,12 +35,15 @@ Your recording is stored on your computer and can be uploaded the next time you 
 
 ![](images/Offlinemac.png)
 
+3. Select **Done**.
+
+![](images/offlinecomplete.png)
 
 
 
+4. Your recording is stored on your computer and can be uploaded by selecting **Sign in to Upload**.
 
-4. Your recording is stored on your computer and can be uploaded the next time you sign in.
-
+![](images/upload-offline-mac.png)
 
 
 ‌
