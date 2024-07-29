@@ -18,4 +18,4 @@ The video below is by the Checklist developer, Dave Smith.
 
 #### Using Checklist in Moodle
 The video below is by the University of East London, using a similar version of Moodle to the current one at University of Waikato.
-<div class="video-container-4by3"><iframe width="560" height="315" src="https://youtu.be/yrBcrAGhOvs?si=VWU1vge1H9emYsav"></iframe></div>
+<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/yrBcrAGhOvs?si=--JnsdsOKUC-y_3A"></iframe></div>
