@@ -6,24 +6,24 @@
 ## Windows
 1. Open the Panopto client. On your desktop, double-click the **Panopto icon** to open the **Panopto Recorder**. Alternatively, you can search for the programme in your system.
 
-![](Panopto-icon.png)
+![](images/Panopto-icon.png)
 
 2. Then select Continue offline
 
 Panopto Screenshot login.png
-![](offline-recording.png)
+![](images/offline-recording.png)
 
 3. Select OK to verify you want to record offline
 
-![](offline-ok.png)
+![](images/offline-ok.png)
 
 Your Folder will now be Offline Recording.
 
-![](offline-folder.png)
+![](images/offline-folder.png)
 
 4. Record your session as normal. When you have finished your recording select Done.
 
-![](management-offline.png)
+![](images/management-offline.png)
 
 Your recording is stored on your computer and can be uploaded the next time you sign in. 
 
