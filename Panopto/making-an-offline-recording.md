@@ -28,16 +28,12 @@ Your recording is stored on your computer and can be uploaded the next time you 
 
 
 
-Mac
+# Mac
 1. Open the Panopto Client
 
-2. DO NOT SIGN IN
+2. Do not sign in, select **Record**
 
-
-
-3. Record as normal
-
-
+![](images/Offlinemac.png)
 
 
 
