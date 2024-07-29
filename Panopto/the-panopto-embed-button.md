@@ -55,7 +55,7 @@ You can add Panopto content to most Moodle activities and topics/weeks/sections 
 
 ![](images/panoptoactivityname_generalsectionsettings_selectpanoptobutton.png)
 
-6. <a name="step6">Click on **Panopto video**.</a>
+6. <a name="step6"></a>Click on **Panopto video**.
 
 ![](images/panoptobutton_selectbutton_selectvideo.png)
 
