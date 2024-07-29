@@ -31,9 +31,9 @@
 
 ## From the Panopto website
 
-Not all computers have a tool installation application, especially if you are working on your personal computer. If you have admin authorisation to your computer, you can  download Panopto from the website.
+> - Not all computers have a tool installation application, especially if you are working on your personal computer. If you have admin authorisation to your computer, you can  download Panopto from the website.
 
-1. Go to waikato.au.panopto.com
+1. Go to [waikato.au.panopto.com](https://waikato.au.panopto.com)
 2. Log in with standard Waikato **username** and **password**.
 3. In the top left corner, select **+ Create**.
 
@@ -56,5 +56,5 @@ Not all computers have a tool installation application, especially if you are wo
 ![](images/Panopto-Set-Up.png)
 
 
-Note: For immediate assistance on installing Panopto, please contact the Service Desk on 838 4008, or log a request through the online self-service portal, Kuhukuhu.
+Note: For immediate assistance on installing Panopto, please contact the Service Desk on 838 4008, or log a request through the online self-service portal, [Kuhukuhu](https://waikato.ivanticloud.com/Modules/SelfService/).
 
