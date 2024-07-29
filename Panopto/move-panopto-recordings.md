@@ -6,6 +6,6 @@
 
 1. Go to the University of Waikato's Panopto server: [https://waikato.au.panopto.com](https://waikato.au.panopto.com)
 2. At the top-right corner, select **Sign in** button.
-![](images/panoptosigninhighlightguide.webp)
+![](images/panoptosigninhighlightguide.jpg)
 3. **Sign in** with your standard Waikato **username** and **password**. 
-![](images/panoptosigninpagev2.webp)
+![](images/panoptosigninpagev2.jpg)
