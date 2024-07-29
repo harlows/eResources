@@ -3,3 +3,5 @@
 1. On your desktop, double-click the **Panopto icon** to open the **Panopto Recorder** program. Alternatively, you can search for the programme in your system.
 
 ![](images/Panopto-2.png)
+
+2. Sign in with your standard Waikato username and password.
