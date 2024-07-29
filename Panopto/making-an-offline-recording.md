@@ -8,7 +8,7 @@
 
 ![](images/Panopto-icon.png)
 
-2. Then select Continue offline
+2. Then select **Continue offline**
 
 ![](images/panopto-offline-login.png)
 
