@@ -4,4 +4,4 @@
 
 1. Go to the University of Waikato's Panopto server: [https://waikato.au.panopto.com](https://waikato.au.panopto.com)
 2. Select **Sign in** using **elearn**, then select **Sign in**.
-![](images/copyrecordingscreenshot.png)
+![](images/Copyrecordingscreenshot.png)
