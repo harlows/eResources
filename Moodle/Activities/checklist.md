@@ -14,8 +14,8 @@ Checklist is an activity which allows students or teachers to check off items as
 ## Introductory videos
 #### Ways to use Checklist
 The video below is by the Checklist developer, Dave Smith.
-<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=wIpGuW_-sVg"></iframe></div>
+<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/wIpGuW_-sVg?si=gc54j3eBbuZElKMP"></iframe></div>
 
 #### Using Checklist in Moodle
 The video below is by the University of East London, using a similar version of Moodle to the current one at University of Waikato.
-<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=yrBcrAGhOvs"></iframe></div>
+<div class="video-container-4by3"><iframe width="560" height="315" src="https://youtu.be/yrBcrAGhOvs?si=VWU1vge1H9emYsav"></iframe></div>
