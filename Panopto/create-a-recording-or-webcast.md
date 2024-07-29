@@ -12,11 +12,11 @@
 
 ![](images/Panopto3.png)
 
->! **Note:** If your desired paper/folder is not available, the folder or your access to the folder may not be correctly set up. You can record to another folder, and move the recording later.
+!> **Note:** If your desired paper/folder is not available, the folder or your access to the folder may not be correctly set up. You can record to another folder, and move the recording later.
 
 4. Select **Primary Sources** and **Secondary Sources** (e.g. audio, video, screen, PPT, Document Camera).
 
->! **Note:** Ensure that you have selected an **Audio** source, and the sound meter shows audio levels are OK.
+!> **Note:** Ensure that you have selected an **Audio** source, and the sound meter shows audio levels are OK.
 
 ![](images/Panopto4.png)
 
@@ -26,11 +26,11 @@
 
 6. To start recording, select the **Record button** in the top left-hand corner.
 
->! **Note:** If you want to broadcast the session to a live audience, select the tick box next to **Webcast** at the top right, then select **Record**.
+!> **Note:** If you want to broadcast the session to a live audience, select the tick box next to **Webcast** at the top right, then select **Record**.
 
 ![](images/Webcast.png)
 
->! **Note:** If you are webcasting students can access the live session by going to the **Panopto block** in the Moodle paper, and under **Currently Recording**, selecting **Watch Live**.
+!> **Note:** If you are webcasting students can access the live session by going to the **Panopto block** in the Moodle paper, and under **Currently Recording**, selecting **Watch Live**.
 
 ![](images/Watchlive.png)
 
@@ -42,6 +42,6 @@
 
 ![](images/Panopto8.png)
 
->! **Note:** After selecting Upload, the recording will be first uploaded to the Panopto database, then processed before being made available for viewing, editing and sharing. You can log out after the upload is complete (make sure to not log out before), the processing will not be affected. The processing time may take up to a few hours.
+!> **Note:** After selecting Upload, the recording will be first uploaded to the Panopto database, then processed before being made available for viewing, editing and sharing. You can log out after the upload is complete (make sure to not log out before), the processing will not be affected. The processing time may take up to a few hours.
 
 - Create an offline recording
