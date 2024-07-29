@@ -10,7 +10,7 @@
 
 2. Then select Continue offline
 
-![](images/Panopto Screenshot login.png)
+![](images/panopto-offline-login.png)
 
 3. Select OK to verify you want to record offline
 
