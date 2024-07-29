@@ -5,3 +5,4 @@
 - [Move Panopto Recordings](move-panopto-recordings.md)
 - [Download and install Panopto](download-and-install-panopto)
 - [Share folders](share-folders.md)
+- [Record in a browser](record-in-a-folder.md)
