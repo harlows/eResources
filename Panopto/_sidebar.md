@@ -8,3 +8,4 @@
 - [Record in a browser](record-in-a-folder.md)
 - [The Panopto embed button](the-panopto-embed-button.md)
 - [Making‌ ‌an‌ ‌offline‌ ‌recording‌](making-an-offline-recording.md)
+- [Panopto Captions](panopto-captions.md)
