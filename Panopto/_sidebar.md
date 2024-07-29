@@ -4,4 +4,4 @@
 - [Download recordings](download-recordings.md)
 - [Move Panopto Recordings](move-panopto-recordings.md)
 - [Download and install Panopto](download-and-install-panopto)
-- [Share folders](share-folder.md)
+- [Share folders](share-folders.md)
