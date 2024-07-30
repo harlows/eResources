@@ -24,4 +24,4 @@
 
 ![](images/rssfeedinmoodle.png)
 
->? **Note:** By default, the RSS feed is enabled for a new paper. To disable it, follow those same steps and untick the **Enable podcast feed** box.
+?> **Note:** By default, the RSS feed is enabled for a new paper. To disable it, follow those same steps and untick the **Enable podcast feed** box.
