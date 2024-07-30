@@ -17,5 +17,7 @@
 - [Add a quiz to a Panopto recording](adding-a-quiz.md)
 - [Student assignments](student-assignments.md)
 - [Add Panopto Video Resource in Moodle](add-panopto-video-resource-in-moodle.md)
-- [Share-an-individual-panopto-recording.md](share-an-individual-panopto-recording.md)
+- [Share an individual Panopto recording](share-an-individual-panopto-recording.md)
 - [Rename recordings](rename-recordings.md)
+- [Upload a recording](upload-a-recording.md)
+
