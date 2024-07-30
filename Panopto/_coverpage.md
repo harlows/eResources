@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+
 
 # docsify <small>3.5</small>
 
@@ -10,5 +10,5 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/harlows/eResources/)
+[Get Started](#create-a-recording-or-webcast.md&sidebar=true&loadSidebar=_sidebar.md)
