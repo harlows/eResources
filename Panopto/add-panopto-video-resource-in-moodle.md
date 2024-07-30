@@ -41,9 +41,9 @@ See the Select content section at the bottom of this page for more information.
 To add a link to all the videos in your paper's Panopto folder, follow steps 1-3 above, enter an **Activity name** (e.g. Videos), then **scroll down** and select **Save and return to paper** or **Save and display**. Do not click on Select content.
 
 ?> **Note:**
-  - You can't currently select several individual videos and insert them into the one Panopto Video resource.
-  - You do not need to update the folder link when you record more videos.
-  - To point students to a sub-folder, link to the main paper folder and advise them to select the **Video resource**, then select the **sub-folder** (subfolder links appear above the individual videos) or search by the sub-folder name at the top left.
+- You can't currently select several individual videos and insert them into the one Panopto Video resource.
+- You do not need to update the folder link when you record more videos.
+- To point students to a sub-folder, link to the main paper folder and advise them to select the **Video resource**, then select the **sub-folder** (subfolder links appear above the individual videos) or search by the sub-folder name at the top left.
 
 ## Restrict access
 
