@@ -24,4 +24,6 @@
 
 7. To exit the settings window, select the X icon in the upper right-hand corner.
 
+   ![](images/Rename-recording-4.png)
+
    
