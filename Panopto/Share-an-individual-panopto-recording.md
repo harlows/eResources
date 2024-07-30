@@ -51,6 +51,20 @@
 
 ## Who can access video
 
-By default, the video recording is set to **Restricted**, with the list of people and groups of people who have been granted access to the recording. To edit access restriction to the recording, select **Change** under **Who can access this video**.
+1. By default, the video recording is set to **Restricted**, with the list of people and groups of people who have been granted access to the recording. To edit access restriction to the recording, select **Change** under **Who can access this video**.
 
 ![](images/staff-panopto-share-individual-recording-change-access-restriction.webp)
+
+2. A list of different types of access restrictions for the folder will appear. Select your preferred option.
+
+   ![](images/staff-panopto-share-individual-recording-access-options.webp)
+
+* **Your Organization (unlisted)**: the person trying to access the video must be logged in with a University of Waikato account, and you need to send them the shared link via email.
+* **Your Organization**: the person trying to access the video must be logged in with a University of Waikato account, but they do not need you to send them the link to the video to find it.
+* **Public (unlisted)**: the person trying to access the video does not need a University of Waikato account to access the folder but still needs you to send them the video link to find it.
+* **Public**: anyone looking for this video on the Internet can find and access it.
+
+> **Note**: To share a link of the video recording via email, select **Copy Link**.
+
+![](images/staff-panopto-share-individual-recording-copy-link.webp)
+   
