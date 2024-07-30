@@ -14,3 +14,4 @@
 - [Map Zoom recordings](map-zoom-recordings.md)
 - [Delete recordings and folders](delete-recordings-folders.md)
 - [Enable RSS feed for a paper](enabling-RSS-feed.md)
+- [Add a quiz to a Panopto recording](adding-a-quiz.md)
