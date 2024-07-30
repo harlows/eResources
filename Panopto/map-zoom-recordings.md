@@ -16,7 +16,7 @@ Zoom recordings saved to the cloud will appear in your Meeting Recordings folder
 
 4. You may also find the meeting ID on your University of Waikato Zoom account page, which you can access by selecting the **bottom star** on the left of the staff landing page/[Te Hononga](https://waikatouniversitynz.sharepoint.com/sites/TeHononga/), then the **Zoom icon**.  See  Install and log in to Zoom for more information.
 
-![](images/Zoomlinktehononga.jpeg)
+![](images/tehononga.jpeg)
 
 5. Select **Meetings** from the left hand menu.
 
@@ -28,7 +28,7 @@ Zoom recordings saved to the cloud will appear in your Meeting Recordings folder
      
 ## Panopto linking
 
-1. Once you have the Meeting ID go to the Panopto home page.
+1. Once you have the Meeting ID go to the [Panopto home page](https://waikato.au.panopto.com/Panopto/Pages/Home.aspx).
 
 2. If you haven't already, please **Sign in**. Your profile image or initials should then appear at the top right of the Panopto main page. 
 
