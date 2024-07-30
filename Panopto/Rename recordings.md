@@ -22,7 +22,7 @@
 
      ![](images/Rename-recording-3.png)
 
-7. To exit the settings window, select the X icon in the upper right-hand corner.
+7. To exit the settings window, select the **X** icon in the upper right-hand corner.
 
    ![](images/Rename-recording-4.png)
 
