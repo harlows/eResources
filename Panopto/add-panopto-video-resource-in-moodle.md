@@ -17,24 +17,38 @@ You can:
 
 1. Go to your Moodle paper and toggle on **Edit mode** at the top right of the page.
 
+![](images/editmodemainpageturnon.jpg)
+
 2. At the bottom of the relevant central section, select **Add an activity or resource**.
 
+![](images/Add_activity_or_resource.jpg)
+
 3. In the pop-up menu, select **Panopto Video**.
+
+![](images/activitiespanoptovideoselected.jpg)
 
 4. In the General section, click on **Select content**.
 
 ?> **Note:** If you are adding a single video, you can leave the **Name** field blank unless you want to change the name of the video: the name of the selected video in Panopto will automatically display as the activity name.
+
+![](images/addingnewexternalselectcontent.jpg)
 
 5. In the Select content pop-up window, you can:
   - **Choose** among the videos in the current paper's folder by selecting the **radio button** to the left of each video, or use the **dropdown menu** and **search box** at the top of the window to select a video from another Panopto folder.
   - **Upload** video or audio files.
   - **Record** video or audio.
 
-See the Select content section at the bottom of this page for more information. 
+See the [Select content section](## Select content options) at the bottom of this page for more information. 
+
+![](images/panoptoactivitiesselectcontentchoose.jpg)
 
 6. After you have selected your content, select **Insert** at the bottom right of the pop-up window
 
+![](images/panoptoactivityafterselectinsert.jpg)
+
 7. Finally, **scroll down** and select **Save and return to paper** or **Save and display**.
+
+![](images/saveandreturnsaveanddisplayactivitiesandresourcesselect.jpg)
 
 ## Add a Panopto folder link
 
