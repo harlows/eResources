@@ -4,7 +4,7 @@ There is a new Panopto assignment tool that you can add via the Add an activity 
 
 ![](images/activitiesandresourcespicker_panoptoassignment.jpg)
 
-?> **Note:** If you prefer to create a student assignment folder via Panopto, using the previous method, see the [Staff and student Panopto student folder instructions pdf](Create-student-assignment-folder-old-method.pdf). This method is useful if you would like students to share multiple files, or you want them to upload videos for non-assignment purposes.
+?> If you prefer to create a student assignment folder via Panopto, using the previous method, see the [Staff and student Panopto student folder instructions pdf](Create-student-assignment-folder-old-method.pdf). This method is useful if you would like students to share multiple files, or you want them to upload videos for non-assignment purposes.
 
 Please see also: 
 
