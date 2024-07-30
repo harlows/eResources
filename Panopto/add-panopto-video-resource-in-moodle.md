@@ -38,7 +38,7 @@ You can:
   - **Upload** video or audio files.
   - **Record** video or audio.
 
-See the [Select content section](## Select content options) at the bottom of this page for more information. 
+See the [Select content section](#Select-content-options) at the bottom of this page for more information. 
 
 ![](images/panoptoactivitiesselectcontentchoose.jpg)
 
@@ -54,10 +54,10 @@ See the [Select content section](## Select content options) at the bottom of thi
 
 To add a link to all the videos in your paper's Panopto folder, follow steps 1-3 above, enter an **Activity name** (e.g. Videos), then **scroll down** and select **Save and return to paper** or **Save and display**. Do not click on Select content.
 
-?> **Note:**
-- You can't currently select several individual videos and insert them into the one Panopto Video resource.
-- You do not need to update the folder link when you record more videos.
-- To point students to a sub-folder, link to the main paper folder and advise them to select the **Video resource**, then select the **sub-folder** (subfolder links appear above the individual videos) or search by the sub-folder name at the top left.
+> **Note:**
+> - You can't currently select several individual videos and insert them into the one Panopto Video resource.
+> - You do not need to update the folder link when you record more videos.
+> - To point students to a sub-folder, link to the main paper folder and advise them to select the **Video resource**, then select the **sub-folder** (subfolder links appear above the individual videos) or search by the sub-folder name at the top left.
 
 ## Restrict access
 
@@ -80,7 +80,7 @@ In the Select content window, **Choose** should be preselected as the default op
 
 - To add a recording from another Panopto folder, including your personal My Folder or a public folder, in the search box at the top left select the **down arrow**, then select the **folder**, or start typing the folder name to search, then select the **radio button** to the left of the relevant video in the list.
 
-?> **Note:**
+> **Note:**
 > - When you click into the folder search box at the top left, recently accessed folders will appear at the top of the drop-down list.
 > - You can search within paper folders by entering a recording name in the search box at the top right.
 
