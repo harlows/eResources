@@ -2,7 +2,7 @@
 
 > - The steps below outline how to share individual recordings from the University of Waikato's <a href="https://waikato.au.panopto.com/Panopto/Pages/Home.aspx" target="_blank">Panopto server</a>. You can follow the same process to Share folders.
 
-> - You can also share a Panopto recording from your personal folder or from another paper folder to a Moodle paper via the new [Panopto embed button](the-panopto-embed-button) in Moodle or the Panopto video resource. Participants in the destination Moodle paper will have viewing permission. You can use the Moodle Restrict access and Group tools to limit access.
+> - You can also share a Panopto recording from your personal folder or from another paper folder to a Moodle paper via the new [Panopto embed button](the-panopto-embed-button.md) in Moodle or the Panopto video resource. Participants in the destination Moodle paper will have viewing permission. You can use the Moodle Restrict access and Group tools to limit access.
 
 1. Go to [waikato.au.panopto.com](https://waikato.au.panopto.com)
    
