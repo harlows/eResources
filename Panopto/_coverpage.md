@@ -11,4 +11,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/harlows/eResources/)
-[Get Started](#create-a-recording-or-webcast.md&sidebar=true&loadSidebar=_sidebar.md)
+[Get Started](#)
