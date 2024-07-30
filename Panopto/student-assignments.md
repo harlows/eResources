@@ -1,6 +1,6 @@
 # Student assignments
 
-There is a new Panopto assignment tool that you can add via the Add an activity or resource menu in Moodle. The Moodle plugin manages all the creation and permission settings and assignments can be graded.
+There is a new <a href="https://www.waikato.ac.nz/students/eresources/moodle/assignments/panopto-assignments/" target="_blank">Panopto assignment</a> tool that you can add via the Add an activity or resource menu in Moodle. The Moodle plugin manages all the creation and permission settings and assignments can be graded.
 
 ![](images/activitiesandresourcespicker_panoptoassignment.jpg)
 
