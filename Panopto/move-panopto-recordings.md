@@ -6,31 +6,32 @@
 
 1. Go to the University of Waikato's Panopto server: [https://waikato.au.panopto.com](https://waikato.au.panopto.com)
 
-3. At the top-right corner, select **Sign in** button.
+2. At the top-right corner, select **Sign in** button.
+   
 
 ![](images/panoptosigninhighlightguide.jpg)
 
-5. **Sign in** with your standard Waikato **username** and **password**.
+3. **Sign in** with your standard Waikato **username** and **password**.
 
 ![](images/panoptosigninpagev2.jpg)
 
-7. On the left of the page, select **My Folder** to find the recording that you wish to move. Then, select the **Settings** icon.
+4. On the left of the page, select **My Folder** to find the recording that you wish to move. Then, select the **Settings** icon.
 
 ![](images/staffpanoptomoverecordingselectvideosettingicon.jpg)
 
 **Note:** You can also select **Browse** at the bottom of the left-hand menu to find recordings from other folders.
 
-6. In the **Overview** section of Settings tab, select **Edit** to the right of the current folder name.
+5. In the **Overview** section of Settings tab, select **Edit** to the right of the current folder name.
 
 ![](images/pfolderedit1.jpg)
 
-8. Select the **drop-down arrow** to show a list of your available folders, and choose a folder.
+6. Select the **drop-down arrow** to show a list of your available folders, and choose a folder.
 
 ![](images/peditfolder.png)
 
 **Note:** If you don't see your folder in the list, start typing the folder or paper name to refine the available selections. If the folder still doesn't appear, check your access rights to that paper.
 
-8. Finally, select **Save** below the new folder name to move the recording.
+7. Finally, select **Save** below the new folder name to move the recording.
 
 ![](images/psavefolder.jpg)
 
