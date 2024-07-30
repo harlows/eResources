@@ -67,8 +67,8 @@ In the Select content window, **Choose** should be preselected as the default op
 - To add a recording from another Panopto folder, including your personal My Folder or a public folder, in the search box at the top left select the **down arrow**, then select the **folder**, or start typing the folder name to search, then select the **radio button** to the left of the relevant video in the list.
 
 ?> **Note:**
-?> - When you click into the folder search box at the top left, recently accessed folders will appear at the top of the drop-down list.
-?> - You can search within paper folders by entering a recording name in the search box at the top right.
+> - When you click into the folder search box at the top left, recently accessed folders will appear at the top of the drop-down list.
+> - You can search within paper folders by entering a recording name in the search box at the top right.
 
 ### B. Upload
 
