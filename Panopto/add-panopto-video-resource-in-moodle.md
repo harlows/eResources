@@ -6,7 +6,7 @@
 > - Embed or link to a recording in most sections of your Moodle paper using the Panopto video resource.
 > - Add recordings via [the Panopto embed button](the-panopto-embed-button.md) of the Moodle text editor.
 >
-> See also Panopto assignments if you would like students to submit video or audio content for an assignment.
+> See also [Panopto assignments](student-assignments.md) if you would like students to submit video or audio content for an assignment.
 
 This page explains how to add Panopto content to a central section of your Moodle paper using the Panopto Video resource.
 
