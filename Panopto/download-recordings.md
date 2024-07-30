@@ -10,18 +10,18 @@
 
 1. Go to [waikato.au.panopto.com](https://waikato.au.panopto.com)
    
-3. On the top right corner, click on **Sign in**.
+2. On the top right corner, click on **Sign in**.
    
   ![](images/signin-button-panopto-homepage.webp)
 
-5. **Sign in** with your standard University of Waikato username and password.
+3. **Sign in** with your standard University of Waikato username and password.
    
   ![](images/panopto-waikato-signin.webp)
   
-7. Select the recording you want to download.
+4. Select the recording you want to download.
 
   ![](images/panopto-recording-select.webp)
   
-9. Along the top of the screen, above the main recording, select the **download icon**.
+5. Along the top of the screen, above the main recording, select the **download icon**.
     
   ![](images/panopto-download-button-highlighted.webp)
