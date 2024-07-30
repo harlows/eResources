@@ -8,11 +8,11 @@
    
 2. On the top right corner, click on **Sign in**.
    
-  ![](images/signin-button-panopto-homepage.webp)
+   ![](images/signin-button-panopto-homepage.webp)
 
 3. **Sign in** with your standard University of Waikato username and password.
    
-  ![](images/panopto-waikato-signin.webp)
+   ![](images/panopto-waikato-signin.webp)
 
 4. On the left-hand side menu, select **Browse**, then select **My Folders**, then select the **folder** that contains the recording you want to share.
 
@@ -20,11 +20,11 @@
 
 6. Hover your pointer over the recording you want to share, and click on the **Share** icon.
 
-   ![](images/panopto-share-recording.png)
+    ![](images/panopto-share-recording.png)
 
 8. A pop-up window will display options for **People and groups** and **Who can access this video**, which are described in the following sections.
 
-   ![](images/staff-panopto-share-individual-recording-pop-up-window.webp)
+    ![](images/staff-panopto-share-individual-recording-pop-up-window.webp)
    
 
  ## People and groups
@@ -35,25 +35,26 @@
 
 > **Note**: If you are adding a paper group, there may be multiple options for the same paper code and year. Hover your cursor over the group to see the group's full name.
 
-![](images/staff-panopto-share-folder-paper-groups-name.webp)
+> ![](images/staff-panopto-share-folder-paper-groups-name.webp)
 
 2. Select the **drop-down arrow** on the box to the right to choose the role options: Creator, Viewer, or Viewer With Link.
 
-![](images/staff-panopto-share-folder-role-option.webp)
+   ![](images/staff-panopto-share-folder-role-option.webp)
 
  3. When you are done, select **Save**. You will see the new people and groups added to the list below.
 
-![](images/staff-panopto-share-folder-select-save.webp)
+   ![](images/staff-panopto-share-folder-select-save.webp)
 
 > **Note**: If you wish to send a notification to the participants you have selected, toggle the switch for **Send an email to notify people**, and a Message box will appear below for you to write a notification message. Then, select **Send**.
 
-![](images/staff-panopto-share-folder-notify-message.webp)
+> ![](images/staff-panopto-share-folder-notify-message.webp)
+
 
 ## Who can access video
 
 1. By default, the video recording is set to **Restricted**, with the list of people and groups of people who have been granted access to the recording. To edit access restriction to the recording, select **Change** under **Who can access this video**.
 
-![](images/staff-panopto-share-individual-recording-change-access-restriction.webp)
+   ![](images/staff-panopto-share-individual-recording-change-access-restriction.webp)
 
 2. A list of different types of access restrictions for the folder will appear. Select your preferred option.
 
@@ -66,5 +67,5 @@
 
 > **Note**: To share a link of the video recording via email, select **Copy Link**.
 
-![](images/staff-panopto-share-individual-recording-copy-link.webp)
+> ![](images/staff-panopto-share-individual-recording-copy-link.webp)
    
