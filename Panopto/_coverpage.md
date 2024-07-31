@@ -11,4 +11,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/harlows/eResources/)
-[Get Started](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/harlows/eresources/main/Panopto&homepage=create-a-recording-or-webcast.md&sidebar=true&loadSidebar=_sidebar.md)
+[Get Started](#home.md)
