@@ -11,4 +11,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/harlows/eResources/)
-[Get Started](#home.md)
+[Get Started](#home)
