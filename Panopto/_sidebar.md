@@ -20,4 +20,5 @@
 - [Share an individual Panopto recording](share-an-individual-panopto-recording.md)
 - [Rename recordings](rename-recordings.md)
 - [Upload a recording](upload-a-recording.md)
+- [My New Page](newpage.md)
 
